@@ -1,1 +1,3 @@
-# aula-componentes-angular-2022
+# Aula componentes Angular (2022)
+
++ Comparador de Imagenes
